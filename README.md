@@ -9,7 +9,14 @@ Contents
 
 Installation and configuration
 ------
-[Download python for your operating system](https://www.python.org/downloads/)
+
+
+
+#### Full installation
+
+* [Download python for your operating system](https://www.python.org/downloads/)
+* [Anaconda](https://www.continuum.io/downloads) is a great tool if you are unsure of packages and the command line interface
+* familiar with coding, goto ***tl;dr***
 
 #### tl;dr
 ```bash
@@ -17,10 +24,13 @@ pip install pandas
 pip install requests
 pip install matplotlib
 pip install lxml
+pip install scipy
+pip install numpy
 pip install scikit-learn
 ```
 
-#### Full installation
+##### Those interested in IPython Notebook
+
 If you would like to run the IPython notebooks locally, (option 1. above), you'll need to install the following:
 
 -  IPython 0.13+ is a requirement to view the ipynb files. It can be downloaded [here](http://ipython.org/ipython-doc/dev/install/index.html) 
