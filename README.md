@@ -1,6 +1,6 @@
 #Data-mining and Machine Learning with Python
 
-<div><img title="created by Stef Gibson" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" align=left width=auto height = auto /></div>
+<div><img title="created by Stef Gibson" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"/></div>
 Contents
 ------
 
