@@ -10,13 +10,11 @@ Contents
 Installation and configuration
 ------
 
-
-
-#### Full installation
+#### installation
 
 * [Download python for your operating system](https://www.python.org/downloads/)
 * [Anaconda](https://www.continuum.io/downloads) is a great tool if you are unsure of packages and the command line interface
-* familiar with coding, goto ***tl;dr***
+* Install pip
 
 #### tl;dr
 ```bash
