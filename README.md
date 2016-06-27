@@ -27,14 +27,25 @@ You need to install Python for your operating system to be able to play around w
 3. Open a terminal / powershell
 4. Installation commands
 ```bash
-pip install pandas
-pip install requests
-pip install matplotlib
-pip install lxml
-pip install scipy
-pip install numpy
-pip install scikit-learn
-pip install jupyter
+$ pip install pandas
+$ pip install requests
+$ pip install matplotlib
+$ pip install lxml
+$ pip install scipy
+$ pip install numpy
+$ pip install scikit-learn
+$ pip install jupyter
+```
+
+### Structure of the repo
+1. Use
+   [cookiecutter](http://drivendata.github.io/cookiecutter-data-science/)
+   for ease of use to get the structure that you want
+2. Installation commands
+```bash
+$ pip install cookiecutter
+downloads....
+$ cookiecutter http://drivendata.github.io/cookiecutter-data-science/
 ```
 
 ---- 
